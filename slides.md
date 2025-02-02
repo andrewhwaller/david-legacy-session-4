@@ -212,7 +212,9 @@ Then the nations shall know that I the <sc>Lord</sc> sanctify Israel, when my sa
 layout: statement
 ---
 
-# David's significance is both *typological* and *genealogical*.
+# 1. David's significance is *typological* and *genealogical*.
+# 2. David and his house are utterly dependent on God for their existence and success.
+# 3. Despite past failure, David's house is God's chosen instrument for the restoration of Israel.
 
 ---
 layout: qr-code
